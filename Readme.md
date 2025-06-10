@@ -18,7 +18,6 @@ Bem-vindo ao sistema de controle de estoque desenvolvido em **PHP com PDO**, que
 
 
 
-
 ---
 
 ## 🛠️ Tecnologias Utilizadas
