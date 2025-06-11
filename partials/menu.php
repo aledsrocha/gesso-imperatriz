@@ -34,6 +34,7 @@
       </li>
 
       <li><i class="fas fa-eye"></i> <a href="<?=$base;?>/tarefas.php">Lista de Tarefas</a></li>
+      <li><i class="fas fa-eye"></i> <a href="<?=$base;?>/totalestoque.php">Total estoque</a></li>
 
       <li class="has-submenu">
         <i class="fas fa-money-bill-wave"></i> Despesas
@@ -44,6 +45,7 @@
       </li>
 
       <li><i class="fas fa-file-alt"></i><a href="<?=$base;?>/relatorios.php">Puxar relatórios</a></li>
+      <li><i class="fas fa-file-alt"></i><a href="<?=$base;?>/relatoriosestoque.php">Puxar total estoque</a></li>
     </ul>
   </div>
 
