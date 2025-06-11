@@ -45,7 +45,7 @@
       </li>
 
       <li><i class="fas fa-file-alt"></i><a href="<?=$base;?>/relatorios.php">Puxar relatórios</a></li>
-      <li><i class="fas fa-file-alt"></i><a href="<?=$base;?>/relatoriosestoque.php">Puxar total estoque</a></li>
+      <li><i class="fas fa-file-alt"></i><a href="<?=$base;?>/exportarestoquetotal.php">Puxar total estoque</a></li>
     </ul>
   </div>
 
