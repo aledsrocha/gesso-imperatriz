@@ -42,3 +42,6 @@ index.php → Página principal ou dashboard
 entrada.php → Cadastro de entradas
 saida.php → Cadastro de saídas
 relatorio.php → Relatórios e exportações
+
+
+<img width="1043" height="531" alt="image" src="https://github.com/user-attachments/assets/3e4e43e5-1b7e-4c38-98c1-ddc3ba8bc2c9" />
