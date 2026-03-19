@@ -1,47 +1,46 @@
-# 📦 Sistema de Controle de Estoque com Gráficos Dinâmicos
+# 📦 Sistema de Controle de Estoque
 
-Bem-vindo ao sistema de controle de estoque desenvolvido em **PHP com PDO**, que oferece recursos avançados como entrada e saída de produtos, relatórios filtráveis, exportação para Excel e **gráficos dinâmicos (diário, semanal e mensal)** usando **Chart.js**.
-
-## 🔍 Funcionalidades Principais
-
-- ✅ Login de usuários com autenticação por token
-- 📥 Registro de entrada de produtos
-- 📤 Registro de saída de produtos
-- 📊 Dashboard com gráficos dinâmicos:
-  - Gráfico Diário: mostra movimentações de um dia específico
-  - Gráfico Semanal: consolidado por semana
-  - Gráfico Mensal: consolidação por mês
-- 📆 Filtros por dia, mês e ano
-- 📄 Exportação de dados para Excel
-- 🔎 Pesquisa e paginação nas tabelas
-- 📱 Layout responsivo com navegação simples
-
-
+Sistema web completo para gerenciamento de estoque, desenvolvido com foco em **controle operacional, organização de dados e apoio à tomada de decisão**.
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
+## 🚀 Sobre o projeto
 
-- **PHP (PDO)**
-- **MySQL**
-- **HTML5 + CSS3**
-- **JavaScript (Chart.js)**
-- **Bootstrap (opcional para o layout)**
-- **Exportação com PHPSpreadsheet (para Excel)**
+Este sistema foi desenvolvido para simular um ambiente real de controle de estoque, permitindo gerenciar produtos, movimentações e visualizar dados de forma clara através de dashboards.
 
 ---
 
-## 📁 Estrutura de Pastas
+## ⚙️ Funcionalidades
 
-/config → Conexão com o banco de dados
-/models → Classes de autenticação e entidades
-/partials → Cabeçalho, menu e rodapé reutilizáveis
-/assent → Scripts JS, imagens e estilos CSS
-/dados_grafico.php → Arquivo responsável por gerar dados JSON para os gráficos
-index.php → Página principal ou dashboard
-entrada.php → Cadastro de entradas
-saida.php → Cadastro de saídas
-relatorio.php → Relatórios e exportações
+- 📦 Cadastro de produtos  
+- ➕ Entrada de estoque  
+- ➖ Saída de estoque  
+- 📊 Dashboard com gráficos dinâmicos  
+- 📅 Relatórios por período  
+- 📤 Exportação de dados para Excel  
+- 🔎 Filtros e consultas  
+
+---
+
+## 🛠 Tecnologias utilizadas
+
+- PHP  
+- MySQL  
+- PDO  
+- JavaScript  
+- Chart.js  
+- HTML5 & CSS3  
+
+---
+
+## 📸 Demonstração
+<img width="784" height="583" alt="image" src="https://github.com/user-attachments/assets/9bec6c17-6731-4179-a164-db7ac42880c4" />
+<img width="1363" height="607" alt="image" src="https://github.com/user-attachments/assets/51a9274a-ab8e-4482-9654-790f28ea3b7f" />
+<img width="1120" height="525" alt="image" src="https://github.com/user-attachments/assets/02d53ff2-b5a8-468a-b9a5-170f7b49e0f7" />
 
 
-<img width="1043" height="531" alt="image" src="https://github.com/user-attachments/assets/3e4e43e5-1b7e-4c38-98c1-ddc3ba8bc2c9" />
+
+
+
+![Dashboard](images/dashboard.png)
+![Produtos](images/produtos.png)
